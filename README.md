@@ -1,2 +1,2 @@
-# python-programas
- Simple measure converter using python
+# python measurement converter
+ Simple measurement converter using python
